@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\homework1\homework1\bin\Debug\homework1.exe.config
+C:\Users\User\source\repos\homework1\homework1\bin\Debug\homework1.exe
+C:\Users\User\source\repos\homework1\homework1\bin\Debug\homework1.pdb
+C:\Users\User\source\repos\homework1\homework1\obj\Debug\homework1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\homework1\homework1\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\homework1\homework1\obj\Debug\App.g.cs
+C:\Users\User\source\repos\homework1\homework1\obj\Debug\homework1_MarkupCompile.cache
+C:\Users\User\source\repos\homework1\homework1\obj\Debug\homework1_MarkupCompile.lref
+C:\Users\User\source\repos\homework1\homework1\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\homework1\homework1\obj\Debug\homework1.g.resources
+C:\Users\User\source\repos\homework1\homework1\obj\Debug\homework1.Properties.Resources.resources
+C:\Users\User\source\repos\homework1\homework1\obj\Debug\homework1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\homework1\homework1\obj\Debug\homework1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\homework1\homework1\obj\Debug\homework1.exe
+C:\Users\User\source\repos\homework1\homework1\obj\Debug\homework1.pdb
