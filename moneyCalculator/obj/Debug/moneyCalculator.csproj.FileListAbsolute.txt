@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\moneyCalculator\moneyCalculator\bin\Debug\moneyCalculator.exe.config
+C:\Users\User\source\repos\moneyCalculator\moneyCalculator\bin\Debug\moneyCalculator.exe
+C:\Users\User\source\repos\moneyCalculator\moneyCalculator\bin\Debug\moneyCalculator.pdb
+C:\Users\User\source\repos\moneyCalculator\moneyCalculator\obj\Debug\moneyCalculator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\moneyCalculator\moneyCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\moneyCalculator\moneyCalculator\obj\Debug\App.g.cs
+C:\Users\User\source\repos\moneyCalculator\moneyCalculator\obj\Debug\moneyCalculator_MarkupCompile.cache
+C:\Users\User\source\repos\moneyCalculator\moneyCalculator\obj\Debug\moneyCalculator_MarkupCompile.lref
+C:\Users\User\source\repos\moneyCalculator\moneyCalculator\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\moneyCalculator\moneyCalculator\obj\Debug\moneyCalculator.g.resources
+C:\Users\User\source\repos\moneyCalculator\moneyCalculator\obj\Debug\moneyCalculator.Properties.Resources.resources
+C:\Users\User\source\repos\moneyCalculator\moneyCalculator\obj\Debug\moneyCalculator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\moneyCalculator\moneyCalculator\obj\Debug\moneyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\moneyCalculator\moneyCalculator\obj\Debug\moneyCalculator.exe
+C:\Users\User\source\repos\moneyCalculator\moneyCalculator\obj\Debug\moneyCalculator.pdb
